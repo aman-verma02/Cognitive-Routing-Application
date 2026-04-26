@@ -1,0 +1,11 @@
+langchain-core
+langchain-openai
+langchain-groq
+langchain-community
+langchain-huggingface
+langgraph
+chromadb
+sentence-transformers
+pydantic
+python-dotenv
+numpy
