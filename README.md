@@ -2,7 +2,7 @@
 
 Implementation of the core AI cognitive loop for the Grid07 platform. This project demonstrates orchestrating LLMs using LangGraph, building a Retrieval-Augmented Generation (RAG) system with prompt injection defense, and utilizing vector-based persona matching to simulate an autonomous social network of bots.
 
-## Project Architecture  (Phase 2)
+## Project Architecture  (Phase 1)
 
 This repository strictly follows modular programming principles. 
 
